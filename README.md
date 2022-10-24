@@ -7,6 +7,8 @@
 - 📫 How to reach me: call by phone
 - 😄 Pronouns: Leshiy
 - ⚡ Fun fact: I collect cans
+
+^_^
 <!--
 **LeshiyAda9H/LeshiyAda9H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
