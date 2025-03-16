@@ -1,28 +1,35 @@
-# 💻 Березиков Алексей Сергеевич
+# 👨‍💻Березиков Алексей Сергеевич
 
-Привет! 
-Я программист, увлечённый алгоритмами, структурой данных, веб-разработкой и машинным обучением. 
-Учусь в **СПбГУ**, факультет **"Прикладная математика и процессы управления"**, направление **"Программирование и информационные технологии"**.
+<p align = "center"> Приветствую! 👋 </p>
+<p align = "center"> Я программист, увлечённый алгоритмами, структурой данных, веб-разработкой и машинным обучением.  </p>
 
-## 🚀 Мой путь в программировании
+---
+
+🎓 ВУЗ: **Санкт-Петербургский государственный университет** 
+📚 Факультет: **Прикладная математика и процессы управления**
+💻 Направление: **Программирование и информационные технологии**
+
+---
+
+<details>
+<summary style = "font-size: 24px; font-weight: bold;  ">
+   Мой путь в программировании 🚀
+</summary>
+
+
+
 1. [Школьные годы](#school-id)
 2. [Университет](#university-id)
-    2.1. [🏆 Основы программирования (C++) ](#op-id)
-    2.2. [🎮 Первая игра на Unity (C#)](#unity-id)
-    2.3. [📱 Дисциплина "языки программирования"](#mobile-language-id)
-    2.4. [📊 Анализ российских акций (Python)](#moex-id)
-    2.5. [📉 Вычислительная математика (Python)](#comp-math-id)
-    2.6. [🤖 Машинное обучение (Python)](#ml-id)
-    2.7. [🏛 Базы данных](#db-id)
-    2.8. [⚙ Учебная практика (Rust)](#execution-id)
-    2.9. [📜 Web-программирование](#web-id)
-3. [🔧 Навыки и технологии](#skill-tech-id)
-    3.1. [👅 Языки программирования](#skill-language-id)
-    3.2. [🖥️ Веб-технологии](#skill-web-id)
-    3.3. [💾 Базы данных](#skill-db-id)
-    3.4. [📊 Data Science & ML](#skill-ds-ml-id)
-    3.5. [🛠 Инструменты](#skill-tools-id)
-4. [📫 Контакты](#contacts-id)
+    - [🏆 Основы программирования (C++) ](#op-id)
+    - [🎮 Первая игра на Unity (C#)](#unity-id)
+    - [📱 Дисциплина "языки программирования"](#mobile-language-id)
+    - [📊 Анализ российских акций (Python)](#moex-id)
+    - [📉 Вычислительная математика (Python)](#comp-math-id)
+    - [🤖 Машинное обучение (Python)](#ml-id)
+    - [🏛 Базы данных](#db-id)
+    - [⚙ Учебная практика (Rust)](#execution-id)
+    - [📜 Web-программирование](#web-id)
+
 ### <h3  id = "school-id"> 🔹Школьные годы</h3> 
 - **7 класс**: Первые шаги в программировании на языке **Кумир** (алгоритмы управления роботом).
 - **8 класс**: Начал писать консольные приложения на **C#**.
@@ -96,30 +103,84 @@
 - СУБД: **PostgreSQL**
 - 📌 [Ссылка на проект](https://github.com/LeshiyAda9H/Trudion)
 
----
 
-## <h2 id = "skill-tech-id">🔧 Навыки и технологии </h2>
+</details>
 
-###  <h3 id = "skill-language-id">👅 Языки программирования</h3>
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-
-###  <h3 id = "skill-web-id">🖥️ Веб-технологии</h3>
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-
-###  <h3 id = "skill-db-id">💾 Базы данных</h3>
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![BaseX](https://img.shields.io/badge/-BaseX-336791?style=flat&logo=xml&logoColor=white)
-
-###  <h3 id = "skill-ds-ml-id">📊 Data Science & ML</h3>
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white)
-
-###  <h3 id = "skill-tools-id">🛠 Инструменты</h3>
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![DBeaver](https://img.shields.io/badge/-DBeaver-0078D4?style=flat&logo=databricks&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white) ![PlantUML](https://img.shields.io/badge/-PlantUML-5C4EE5?style=flat&logo=uml&logoColor=white) ![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat&logo=miro&logoColor=black)
 
 ---
 
-##  <h2 id = "contacts-id">📫 Контакты</h2>
+
+<!-- - [Навыки и технологии 🔧](#skill-tech-id)
+    - [👅 Языки программирования](#skill-language-id)
+    - [🖥️ Веб-технологии](#skill-web-id)
+    - [💾 Базы данных](#skill-db-id)
+    - [📊 Data Science & ML](#skill-ds-ml-id)
+    - [🛠 Инструменты](#skill-tools-id)
+- [Контакты 📫](#contacts-id) -->
+
+<!-- <h2 id = "skill-tech-id" align = "center">Навыки и технологии</h2> -->
+
+<div align = "center">
+    <h3 id = "skill-language-id">👅 Языки программирования</h3>
+    <div>
+        <a> <img src = "https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" /></a>
+        <a> <img src = "https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></a>
+        <a> <img src = "https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /></a>
+        <a> <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></a>
+        <a> <img src = "https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></a>
+        <a> <img src = "https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/></a>
+    </div>
+</div>
+
+
+<div style = "display: flex; justify-content: space-between">
+    <div>
+        <h3 id = "skill-web-id">🖥️ Веб-технологии</h3>
+        <div style = "display: flex; justify-content: space-evenly">
+            <a> <img src = "https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" /></a>
+            <a> <img src = "https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" /></a>
+            <a> <img src = "https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" /></a>
+        </div>
+    </div>
+    <div>
+        <h3 id = "skill-db-id">💾 Базы данных</h3>
+        <div style = "display: flex; justify-content: space-evenly">
+            <a> <img src = "https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /></a>
+            <a> <img src = "https://img.shields.io/badge/-BaseX-336791?style=flat&logo=xml&logoColor=white" /></a>
+        </div>
+    </div>
+</div>
+
+<div style = "display: flex; justify-content: space-between;">
+    <div >
+        <h3 id = "skill-ds-ml-id" align = "left">📊 Data Science & ML</h3>
+        <div >
+            <a > <img src = "https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" /></a>
+            <a > <img src = "https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" /></a>
+            <a > <img src = "https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white" /></a>
+            <a > <img src = "https://img.shields.io/badge/-XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white" /></a>
+        </div>
+    </div>
+    <div>
+        <h3 id = "skill-tools-id" align = "right">🛠 Инструменты</h3>
+        <div>
+            <a> <img src = "https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+            <a> <img src = "https://img.shields.io/badge/-DBeaver-0078D4?style=flat&logo=databricks&logoColor=white" /></a>
+            <a> <img src = "https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white" /></a>
+            <a> <img src = "https://img.shields.io/badge/-PlantUML-5C4EE5?style=flat&logo=uml&logoColor=white" /></a>
+            <a> <img src = "https://img.shields.io/badge/-Miro-FFD02F?style=flat&logo=miro&logoColor=black" /></a>
+        </div>
+    </div>
+</div>
+
+---
+
+<h2 id = "contacts-id">Контакты 📫</h2>
+
 - **HeadHunter**: [резюме](https://spb.hh.ru/resume/e56eeea9ff0e91203d0039ed1f467462424c37)
 - **Email**: lesh.berz@gmail.com
 
 ---
+
 ✨ *Буду рад новым контактам и интересным проектам!*
+
