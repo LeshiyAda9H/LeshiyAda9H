@@ -4,10 +4,27 @@
 <p align = "center"> Я программист, увлечённый алгоритмами, структурой данных, веб-разработкой и машинным обучением.  </p>
 
 ---
+<p> 
 
-🎓 ВУЗ: **Санкт-Петербургский государственный университет** 
+🎓 ВУЗ: **Санкт-Петербургский государственный университет**  
+
+</p>
+
+<p> 
+
 📚 Факультет: **Прикладная математика и процессы управления**
+
+</p>
+
+<p> 
+
 💻 Направление: **Программирование и информационные технологии**
+
+</p>
+
+
+
+
 
 ---
 
@@ -134,7 +151,7 @@
 
 
 <div style = "display: flex; justify-content: space-between">
-    <div>
+    <div align = "left">
         <h3 id = "skill-web-id">🖥️ Веб-технологии</h3>
         <div style = "display: flex; justify-content: space-evenly">
             <a> <img src = "https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" /></a>
@@ -142,7 +159,7 @@
             <a> <img src = "https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" /></a>
         </div>
     </div>
-    <div>
+    <div align = "right">
         <h3 id = "skill-db-id">💾 Базы данных</h3>
         <div style = "display: flex; justify-content: space-evenly">
             <a> <img src = "https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /></a>
@@ -152,8 +169,8 @@
 </div>
 
 <div style = "display: flex; justify-content: space-between;">
-    <div >
-        <h3 id = "skill-ds-ml-id" align = "left">📊 Data Science & ML</h3>
+    <div align = "left">
+        <h3 id = "skill-ds-ml-id">📊 Data Science & ML</h3>
         <div >
             <a > <img src = "https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" /></a>
             <a > <img src = "https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" /></a>
@@ -161,8 +178,8 @@
             <a > <img src = "https://img.shields.io/badge/-XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white" /></a>
         </div>
     </div>
-    <div>
-        <h3 id = "skill-tools-id" align = "right">🛠 Инструменты</h3>
+    <div align = "right">
+        <h3 id = "skill-tools-id" >🛠 Инструменты</h3>
         <div>
             <a> <img src = "https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
             <a> <img src = "https://img.shields.io/badge/-DBeaver-0078D4?style=flat&logo=databricks&logoColor=white" /></a>
