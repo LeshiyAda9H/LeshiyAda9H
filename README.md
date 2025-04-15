@@ -157,6 +157,7 @@
             <a> <img src = "https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" /></a>
             <a> <img src = "https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" /></a>
             <a> <img src = "https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" /></a>
+            <a> <img src = "https://img.shields.io/badge/-ReactJs-61DAFB?style=flat&logo=react&logoColor=white" /></a>
         </div>
     </div>
     <div align = "right">
